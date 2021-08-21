@@ -1,4 +1,4 @@
-# DC-DC_Buck_Converter
+# DC-DC Buck Converter
 
 - switching frequency: 25KHz 
 - ripple value: 0.01 
